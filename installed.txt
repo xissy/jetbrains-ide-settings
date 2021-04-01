@@ -1,6 +1,9 @@
+Docker
 IdeaVIM
 com.intellij.plugins.vscodekeymap
 com.jetbrains.codeWithMe
 com.markskelton.one-dark-theme
+idea.plugin.protoeditor
 izhangzhihao.rainbow.brackets
+name.kropp.intellij.makefile
 org.jetbrains.kotlin

@@ -4,9 +4,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="ctrl back_space" />
-  </action>
+  <action id="Generate" />
   <action id="NewElement" />
   <action id="RemoteHost.NewRemoteItem" />
   <action id="ServiceView.AddService" />
